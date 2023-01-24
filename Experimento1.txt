@@ -1,2 +1,5 @@
 Historia de Fabrina:
-Nació en Córdoba en 1987, tiene 35 años.
+
+Nació en Córdoba en 1987, tiene 36 años.
+
+Esta aprediendo git junto a Daniel y Tormenta.
